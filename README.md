@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: No submission in Github :-(
+
 # Django Authentication CW
 
 ### Exercise 1:
